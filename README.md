@@ -11,3 +11,8 @@
   [] [Extract Path Parameters from url request](https://stackoverflow.com/questions/34314975/go-get-path-parameters-from-http-request)
 - the call to WriteHeader(http.StatusOK) is unnecessary when using json.Encoder because it automatically writes the HTTP status code of 200 (OK) for you.
 - In the Go net/http package, you cannot directly set the HTTP method type for http.HandleFunc. However, you can achieve this by using http.HandlerFunc instead and checking the request method within your handler.
+
+## Adding authentication with JWT
+
+- Return a bearer token to be used for authorising protected routes
+- Run `go get github.com/dgrijalva/jwt-go`
