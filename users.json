@@ -1,0 +1,184 @@
+[
+    {
+      "id": "65fc3bf1774f36053ace1203",
+      "email": "allie_robertson@comvey.mx",
+      "roles": [
+        "admin"
+      ],
+      "apiKey": "512522be-1228-4f83-a65f-8beab58ea702",
+      "profile": {
+        "dob": "1989-04-29",
+        "name": "Allie Robertson",
+        "about": "Id nostrud aliquip veniam aliqua sint nulla in. Aute irure pariatur adipisicing laborum enim incididunt ad ullamco labore.",
+        "address": "73 Albemarle Terrace, Norris, Palau",
+        "company": "Comvey",
+        "location": {
+          "lat": 45.856639,
+          "long": 7.277063
+        }
+      },
+      "username": "allie89",
+      "createdAt": "2010-08-17T17:24:19.505Z",
+      "updatedAt": "2010-08-18T17:24:19.505Z"
+    },
+    {
+      "id": "65fc3bf15d96bc53dd9fca2c",
+      "email": "antonia_jackson@gushkool.nissan",
+      "roles": [
+        "owner",
+        "guest"
+      ],
+      "apiKey": "1a43418a-d652-4742-85a6-27bed53e24ce",
+      "profile": {
+        "dob": "1993-07-11",
+        "name": "Antonia Jackson",
+        "about": "Ipsum eu consequat eiusmod id velit ea eiusmod non fugiat in. Commodo labore in aliquip velit nisi fugiat adipisicing labore deserunt consectetur pariatur mollit fugiat.",
+        "address": "28 Brighton Avenue, Woodlands, Texas",
+        "company": "Gushkool",
+        "location": {
+          "lat": -48.257301,
+          "long": 64.083394
+        }
+      },
+      "username": "antonia93",
+      "createdAt": "2014-12-02T19:58:05.411Z",
+      "updatedAt": "2014-12-03T19:58:05.411Z"
+    },
+    {
+      "id": "65fc3bf1eb80fd4a12fb2645",
+      "email": "berry_burton@nikuda.homedepot",
+      "roles": [
+        "admin",
+        "guest"
+      ],
+      "apiKey": "24223db4-d12e-4eca-9498-5827abaf7b72",
+      "profile": {
+        "dob": "1988-05-05",
+        "name": "Berry Burton",
+        "about": "Eiusmod esse elit quis enim laboris. Reprehenderit laboris dolore veniam reprehenderit ad ut enim ad irure culpa nulla cillum.",
+        "address": "9 Senator Street, Waumandee, Pennsylvania",
+        "company": "Nikuda",
+        "location": {
+          "lat": -0.348224,
+          "long": -158.875121
+        }
+      },
+      "username": "berry88",
+      "createdAt": "2014-09-30T08:20:17.363Z",
+      "updatedAt": "2014-10-01T08:20:17.363Z"
+    },
+    {
+      "id": "65fc3bf13ef055e671563c56",
+      "email": "bean_blanchard@silodyne.wtf",
+      "roles": [
+        "admin",
+        "owner"
+      ],
+      "apiKey": "6b15635d-e57d-40db-a4aa-7822de0346fe",
+      "profile": {
+        "dob": "1988-06-22",
+        "name": "Bean Blanchard",
+        "about": "Cillum est veniam do minim cupidatat cupidatat eu minim velit do in excepteur. Tempor enim deserunt anim duis reprehenderit ut id ex labore aute.",
+        "address": "44 Front Street, Hartsville/Hartley, Wyoming",
+        "company": "Silodyne",
+        "location": {
+          "lat": -38.439243,
+          "long": -92.192218
+        }
+      },
+      "username": "bean88",
+      "createdAt": "2013-01-28T09:55:22.026Z",
+      "updatedAt": "2013-01-29T09:55:22.026Z"
+    },
+    {
+      "id": "65fc3bf120430385711f5b3d",
+      "email": "miranda_sharpe@aquamate.menu",
+      "roles": [
+        "admin",
+        "guest"
+      ],
+      "apiKey": "1232b503-5add-4868-b1ca-5495a745e985",
+      "profile": {
+        "dob": "1989-12-20",
+        "name": "Miranda Sharpe",
+        "about": "Magna excepteur consequat duis magna tempor mollit occaecat do qui dolore do. Sint qui do excepteur consectetur quis voluptate Lorem.",
+        "address": "68 Roosevelt Court, Waterloo, Rhode Island",
+        "company": "Aquamate",
+        "location": {
+          "lat": -71.688115,
+          "long": 124.242998
+        }
+      },
+      "username": "miranda89",
+      "createdAt": "2012-05-01T02:33:53.295Z",
+      "updatedAt": "2012-05-02T02:33:53.295Z"
+    },
+    {
+      "id": "65fc3bf16952c21e623910ce",
+      "email": "amalia_bauer@kage.bb",
+      "roles": [
+        "member",
+        "admin"
+      ],
+      "apiKey": "73a1ea16-f69c-415a-bf28-fffe6c3b50ea",
+      "profile": {
+        "dob": "1991-10-11",
+        "name": "Amalia Bauer",
+        "about": "Id consequat reprehenderit cupidatat ut tempor amet aute sit dolore. Ut deserunt velit magna laborum esse aliqua laboris exercitation.",
+        "address": "13 Bergen Street, Eagleville, Alaska",
+        "company": "Kage",
+        "location": {
+          "lat": 64.496425,
+          "long": 170.000027
+        }
+      },
+      "username": "amalia91",
+      "createdAt": "2010-12-17T17:47:42.743Z",
+      "updatedAt": "2010-12-18T17:47:42.743Z"
+    },
+    {
+      "id": "65fc3bf1908c4ed7fe20c59b",
+      "email": "zamora_mccray@injoy.brother",
+      "roles": [
+        "owner",
+        "guest"
+      ],
+      "apiKey": "ee2b58a0-76b0-46d1-84f0-57139a60951b",
+      "profile": {
+        "dob": "1990-11-22",
+        "name": "Zamora Mccray",
+        "about": "Ea exercitation id qui cillum sint elit cillum eiusmod Lorem. Do irure irure exercitation ullamco minim excepteur cupidatat.",
+        "address": "11 Johnson Avenue, Gibsonia, Idaho",
+        "company": "Injoy",
+        "location": {
+          "lat": 28.010136,
+          "long": -14.409104
+        }
+      },
+      "username": "zamora90",
+      "createdAt": "2012-09-23T01:32:06.368Z",
+      "updatedAt": "2012-09-24T01:32:06.368Z"
+    },
+    {
+      "id": "65fc3bf1697a7d4b6421047f",
+      "email": "kayla_ramsey@singavera.ro",
+      "roles": [
+        "guest"
+      ],
+      "apiKey": "c7042ff4-8de6-47af-8273-e0558837282f",
+      "profile": {
+        "dob": "1991-02-28",
+        "name": "Kayla Ramsey",
+        "about": "Mollit ad irure occaecat id aliquip. Occaecat est laborum ea sit ipsum ex voluptate incididunt aute.",
+        "address": "2 Stewart Street, Hayden, Massachusetts",
+        "company": "Singavera",
+        "location": {
+          "lat": -83.228871,
+          "long": 170.121103
+        }
+      },
+      "username": "kayla91",
+      "createdAt": "2011-02-09T00:47:55.337Z",
+      "updatedAt": "2011-02-10T00:47:55.337Z"
+    }
+  ]
